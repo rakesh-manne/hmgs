@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [hms]" parallel="classes">
+  <listeners>
+    <listener class-name="atu.testng.reports.listeners.ATUReportsListener"/>
+    <listener class-name="atu.testng.reports.listeners.ConfigurationListener"/>
+    <listener class-name="atu.testng.reports.listeners.MethodListener"/>
+  </listeners>
+  <test name="Hms test(failed)" parallel="true">
+    <classes>
+      <class name="com.hmgs.test.Login">
+        <methods>
+          <include name="testNewLogs"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- com.hmgs.test.Login -->
+      <class name="com.hmgs.test.EmergencyRegistration">
+        <methods>
+          <include name="emergencyRegistration"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.hmgs.test.EmergencyRegistration -->
+      <class name="com.hmgs.test.PermanentRegistration">
+        <methods>
+          <include name="setUp"/>
+          <include name="permanentRegistration"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.hmgs.test.PermanentRegistration -->
+    </classes>
+  </test> <!-- Hms test(failed) -->
+</suite> <!-- Failed suite [hms] -->

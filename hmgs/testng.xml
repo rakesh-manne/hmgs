@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="hms" parallel="classes">
+  <test verbose="10" name="Hms test" parallel="true">
+    <classes>
+      <class name="com.hmgs.test.Login"/>
+      <class name="com.hmgs.test.PermanentRegistration"/>
+      <class name="com.hmgs.test.EmergencyRegistration"/>
+    </classes>
+  </test> <!-- Default test -->
+  
+  <!--<listeners>
+	<listener class-name="atu.testng.reports.listeners.ATUReportsListener"></listener>
+	<listener class-name="atu.testng.reports.listeners.ConfigurationListener"></listener>
+	<listener class-name="atu.testng.reports.listeners.MethodListener"></listener>
+  </listeners> -->
+</suite> <!-- Default suite -->

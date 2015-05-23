@@ -1,0 +1,3 @@
+Expand = /html/body/div[2]/div/div/ul/li/div
+Permanent_Registration = /html/body/div[2]/div/div[1]/ul/li[1]/ul/li[1]/a
+Patient_Category = PATIENT_CAT

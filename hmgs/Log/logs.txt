@@ -1,0 +1,1242 @@
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: screenshot [f255278b-41d3-4d3e-818f-2c41584e716c, screenshot {}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=PATIENT_CAT}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={c5fb40f1-7503-4e62-82b1-5ed8fa3bf470}}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={c5fb40f1-7503-4e62-82b1-5ed8fa3bf470}}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={c5fb40f1-7503-4e62-82b1-5ed8fa3bf470}, name=multiple}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={c5fb40f1-7503-4e62-82b1-5ed8fa3bf470}, name=multiple}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={c5fb40f1-7503-4e62-82b1-5ed8fa3bf470}, using=xpath, value=.//option[normalize-space(.) = "Insurance"]}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, screenshot {}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={c5fb40f1-7503-4e62-82b1-5ed8fa3bf470}, using=xpath, value=.//option[normalize-space(.) = "Insurance"]}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={5822c573-b8b7-4797-b426-52846335d445}}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={5822c573-b8b7-4797-b426-52846335d445}}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={5822c573-b8b7-4797-b426-52846335d445}}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: executeScript [f255278b-41d3-4d3e-818f-2c41584e716c, executeScript {script=return navigator.userAgent;, args=[]}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: executeScript [f255278b-41d3-4d3e-818f-2c41584e716c, executeScript {script=return navigator.userAgent;, args=[]}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, executeScript {script=return navigator.userAgent;, args=[]}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, executeScript {script=return navigator.userAgent;, args=[]}]
+May 06, 2015 11:34:31 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=xpath, value=/html/body/div/h1/a}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={5822c573-b8b7-4797-b426-52846335d445}}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=TITLE}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=xpath, value=/html/body/div/h1/a}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=username}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=TITLE}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={71b49003-0d93-4f4a-b9bb-878a40e4b645}}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=username}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={d62f1a50-6cb9-42ef-9d4d-3b76438e37b8}, value=[Ljava.lang.CharSequence;@376e012c}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={71b49003-0d93-4f4a-b9bb-878a40e4b645}}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={71b49003-0d93-4f4a-b9bb-878a40e4b645}, name=multiple}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={d62f1a50-6cb9-42ef-9d4d-3b76438e37b8}, value=[Ljava.lang.CharSequence;@376e012c}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=password}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={71b49003-0d93-4f4a-b9bb-878a40e4b645}, name=multiple}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={71b49003-0d93-4f4a-b9bb-878a40e4b645}, using=xpath, value=.//option[normalize-space(.) = "Mr."]}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={71b49003-0d93-4f4a-b9bb-878a40e4b645}, using=xpath, value=.//option[normalize-space(.) = "Mr."]}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={3bfa33e6-a532-40d3-9387-984afd41febb}}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={3bfa33e6-a532-40d3-9387-984afd41febb}}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={3bfa33e6-a532-40d3-9387-984afd41febb}}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={3bfa33e6-a532-40d3-9387-984afd41febb}}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=PNT_NAME}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=PNT_NAME}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={8f0d6838-a9d0-4f31-bd9d-9791b616ee31}, value=[Ljava.lang.CharSequence;@24d33176}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={8f0d6838-a9d0-4f31-bd9d-9791b616ee31}, value=[Ljava.lang.CharSequence;@24d33176}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=MIDDLE_NAME}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=MIDDLE_NAME}]
+May 06, 2015 11:34:32 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={f5ce9dbc-c402-4e67-8e6f-39287af533fb}, value=[Ljava.lang.CharSequence;@3ebfda8}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={f5ce9dbc-c402-4e67-8e6f-39287af533fb}, value=[Ljava.lang.CharSequence;@3ebfda8}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=LAST_NAME}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=LAST_NAME}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={6100f58e-f649-47ba-8f62-7452f75d67c6}, value=[Ljava.lang.CharSequence;@4c84e28b}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={6100f58e-f649-47ba-8f62-7452f75d67c6}, value=[Ljava.lang.CharSequence;@4c84e28b}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=DOB}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=DOB}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={b8d4e580-6237-4fa5-b2f7-f47e5049868e}, value=[Ljava.lang.CharSequence;@6acd720f}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={b8d4e580-6237-4fa5-b2f7-f47e5049868e}, value=[Ljava.lang.CharSequence;@6acd720f}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=AGE}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=AGE}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={ba9cd0fd-9c65-4f2d-b320-24aa92fc8442}, value=[Ljava.lang.CharSequence;@4a5580cc}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={ba9cd0fd-9c65-4f2d-b320-24aa92fc8442}, value=[Ljava.lang.CharSequence;@4a5580cc}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=SEX}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=SEX}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={4dcfbcb0-4da0-42ab-a86b-8dbeb02311cb}}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={4dcfbcb0-4da0-42ab-a86b-8dbeb02311cb}}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={4dcfbcb0-4da0-42ab-a86b-8dbeb02311cb}, name=multiple}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={4dcfbcb0-4da0-42ab-a86b-8dbeb02311cb}, name=multiple}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={4dcfbcb0-4da0-42ab-a86b-8dbeb02311cb}, using=xpath, value=.//option[normalize-space(.) = "Male"]}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={4dcfbcb0-4da0-42ab-a86b-8dbeb02311cb}, using=xpath, value=.//option[normalize-space(.) = "Male"]}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={8658d0ec-42b1-43d4-9f17-48fd5e3752ee}}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={8658d0ec-42b1-43d4-9f17-48fd5e3752ee}}]
+May 06, 2015 11:34:33 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={8658d0ec-42b1-43d4-9f17-48fd5e3752ee}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={8658d0ec-42b1-43d4-9f17-48fd5e3752ee}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=MTRL_STATUS}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=MTRL_STATUS}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={6034e3b7-51cb-4b71-a571-bf35114c1392}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={6034e3b7-51cb-4b71-a571-bf35114c1392}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={6034e3b7-51cb-4b71-a571-bf35114c1392}, name=multiple}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={6034e3b7-51cb-4b71-a571-bf35114c1392}, name=multiple}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={6034e3b7-51cb-4b71-a571-bf35114c1392}, using=xpath, value=.//option[normalize-space(.) = "Married"]}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={6034e3b7-51cb-4b71-a571-bf35114c1392}, using=xpath, value=.//option[normalize-space(.) = "Married"]}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={60965399-36cb-46d3-bd03-2f71fdc55fb6}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={60965399-36cb-46d3-bd03-2f71fdc55fb6}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={60965399-36cb-46d3-bd03-2f71fdc55fb6}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=password}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={0423de8e-f872-4f8d-9502-3b8e1a741fd5}, value=[Ljava.lang.CharSequence;@1e0971b}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={0423de8e-f872-4f8d-9502-3b8e1a741fd5}, value=[Ljava.lang.CharSequence;@1e0971b}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=submit}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=submit}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={3c3f9ec3-16da-4348-b566-57baafc987c6}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={60965399-36cb-46d3-bd03-2f71fdc55fb6}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=RELIGION}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=RELIGION}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={e230a2f5-7d0a-48cc-96f1-6f73e18ff167}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={e230a2f5-7d0a-48cc-96f1-6f73e18ff167}}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={e230a2f5-7d0a-48cc-96f1-6f73e18ff167}, name=multiple}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={e230a2f5-7d0a-48cc-96f1-6f73e18ff167}, name=multiple}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={e230a2f5-7d0a-48cc-96f1-6f73e18ff167}, using=tag name, value=option}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={e230a2f5-7d0a-48cc-96f1-6f73e18ff167}, using=tag name, value=option}]
+May 06, 2015 11:34:34 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={3cec8733-0073-4fd8-9fbf-3b7e8f5b9e5e}, name=index}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={3cec8733-0073-4fd8-9fbf-3b7e8f5b9e5e}, name=index}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={dc6e2931-7f4d-4782-a118-464cbe7f960d}, name=index}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={dc6e2931-7f4d-4782-a118-464cbe7f960d}, name=index}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={c48e88da-f77b-4686-8e36-60141ff2e8f9}, name=index}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={c48e88da-f77b-4686-8e36-60141ff2e8f9}, name=index}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={b685c83c-322c-4c9d-a8ac-31d8237a3bfa}, name=index}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={b685c83c-322c-4c9d-a8ac-31d8237a3bfa}, name=index}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={b685c83c-322c-4c9d-a8ac-31d8237a3bfa}}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={b685c83c-322c-4c9d-a8ac-31d8237a3bfa}}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={b685c83c-322c-4c9d-a8ac-31d8237a3bfa}}]
+May 06, 2015 11:34:35 PM sun.net.www.protocol.http.HttpURLConnection plainConnect0
+FINEST: ProxySelector Request for http://127.0.0.1:7057/hub
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={b685c83c-322c-4c9d-a8ac-31d8237a3bfa}}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=PLANGUAGE}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=PLANGUAGE}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={964adc69-6c5d-4b28-9cdf-9300847bd5f1}}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={964adc69-6c5d-4b28-9cdf-9300847bd5f1}}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={964adc69-6c5d-4b28-9cdf-9300847bd5f1}, name=multiple}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={964adc69-6c5d-4b28-9cdf-9300847bd5f1}, name=multiple}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={964adc69-6c5d-4b28-9cdf-9300847bd5f1}, using=xpath, value=.//option[normalize-space(.) = "English"]}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={964adc69-6c5d-4b28-9cdf-9300847bd5f1}, using=xpath, value=.//option[normalize-space(.) = "English"]}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={a91f6058-efc6-4e5e-886d-d261aa747ded}}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={a91f6058-efc6-4e5e-886d-d261aa747ded}}]
+May 06, 2015 11:34:35 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={a91f6058-efc6-4e5e-886d-d261aa747ded}}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={a91f6058-efc6-4e5e-886d-d261aa747ded}}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=ADDRESS1}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=ADDRESS1}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={c559f1dd-065a-4c53-a81e-a17e1ecd2676}, value=[Ljava.lang.CharSequence;@1b8e449d}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={c559f1dd-065a-4c53-a81e-a17e1ecd2676}, value=[Ljava.lang.CharSequence;@1b8e449d}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=MOBILE_NO}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=MOBILE_NO}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={901b76b4-af06-449b-9540-5649206eec40}, value=[Ljava.lang.CharSequence;@4f90b66}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={901b76b4-af06-449b-9540-5649206eec40}, value=[Ljava.lang.CharSequence;@4f90b66}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=EMAIL_ID}]
+May 06, 2015 11:34:36 PM sun.net.www.protocol.http.HttpURLConnection plainConnect0
+FINEST: ProxySelector Request for http://127.0.0.1:7057/hub
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=EMAIL_ID}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={4951f0d6-bc1b-4750-ac78-70d9c86b2314}, value=[Ljava.lang.CharSequence;@57d3ecd6}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={4951f0d6-bc1b-4750-ac78-70d9c86b2314}, value=[Ljava.lang.CharSequence;@57d3ecd6}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=COUNTRY_CODE}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=COUNTRY_CODE}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={1980965d-9c62-4cd9-82d8-a7aceb0565a1}}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={1980965d-9c62-4cd9-82d8-a7aceb0565a1}}]
+May 06, 2015 11:34:36 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={1980965d-9c62-4cd9-82d8-a7aceb0565a1}, name=multiple}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={1980965d-9c62-4cd9-82d8-a7aceb0565a1}, name=multiple}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={1980965d-9c62-4cd9-82d8-a7aceb0565a1}, using=xpath, value=.//option[normalize-space(.) = "America"]}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={1980965d-9c62-4cd9-82d8-a7aceb0565a1}, using=xpath, value=.//option[normalize-space(.) = "America"]}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={e029761e-00c9-4137-8ad0-3a2ea7b5ad6d}}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={e029761e-00c9-4137-8ad0-3a2ea7b5ad6d}}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={e029761e-00c9-4137-8ad0-3a2ea7b5ad6d}}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={e029761e-00c9-4137-8ad0-3a2ea7b5ad6d}}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=RELATION}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=RELATION}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={1c1088d8-b06a-43dd-801f-35c4572862f3}}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={1c1088d8-b06a-43dd-801f-35c4572862f3}}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={1c1088d8-b06a-43dd-801f-35c4572862f3}, name=multiple}]
+May 06, 2015 11:34:37 PM sun.net.www.protocol.http.HttpURLConnection plainConnect0
+FINEST: Proxy used: DIRECT
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: newSession [null, newSession {desiredCapabilities=Capabilities [{browserName=firefox, version=, platform=ANY}], requiredCapabilities=Capabilities [{}]}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={3c3f9ec3-16da-4348-b566-57baafc987c6}}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getPageSource [f255278b-41d3-4d3e-818f-2c41584e716c, getPageSource {}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={1c1088d8-b06a-43dd-801f-35c4572862f3}, name=multiple}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={1c1088d8-b06a-43dd-801f-35c4572862f3}, using=xpath, value=.//option[normalize-space(.) = "Brother"]}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, getPageSource {}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=xpath, value=/html/body/div[2]/div/h3/a}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={1c1088d8-b06a-43dd-801f-35c4572862f3}, using=xpath, value=.//option[normalize-space(.) = "Brother"]}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={36c1ffb9-2b2b-448a-be63-b424d2ab0658}}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=xpath, value=/html/body/div[2]/div/h3/a}]
+May 06, 2015 11:34:37 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={20f072eb-783a-4230-92e9-1717535e8eb4}}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={36c1ffb9-2b2b-448a-be63-b424d2ab0658}}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={36c1ffb9-2b2b-448a-be63-b424d2ab0658}}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={20f072eb-783a-4230-92e9-1717535e8eb4}}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=username}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={36c1ffb9-2b2b-448a-be63-b424d2ab0658}}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=PAT_IDENTITY}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=PAT_IDENTITY}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={a6abea44-cb9d-4092-8772-02a5fe9f127e}}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [null, newSession {desiredCapabilities=Capabilities [{browserName=firefox, version=, platform=ANY}], requiredCapabilities=Capabilities [{}]}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: get [9dd49be9-1d40-4761-a925-08bb05218bbd, get {url=http://selenium4testing.com/hms/}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={a6abea44-cb9d-4092-8772-02a5fe9f127e}}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={a6abea44-cb9d-4092-8772-02a5fe9f127e}, name=multiple}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=username}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={4763fd41-81a9-444f-9b99-d4a0c1f48c18}, value=[Ljava.lang.CharSequence;@1afdf1ea}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={a6abea44-cb9d-4092-8772-02a5fe9f127e}, name=multiple}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={a6abea44-cb9d-4092-8772-02a5fe9f127e}, using=xpath, value=.//option[normalize-space(.) = "Voter ID"]}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={a6abea44-cb9d-4092-8772-02a5fe9f127e}, using=xpath, value=.//option[normalize-space(.) = "Voter ID"]}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={50dab1e4-e486-48f6-9277-eb645c016d39}}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={4763fd41-81a9-444f-9b99-d4a0c1f48c18}, value=[Ljava.lang.CharSequence;@1afdf1ea}]
+May 06, 2015 11:34:38 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=password}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={50dab1e4-e486-48f6-9277-eb645c016d39}}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=password}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={50dab1e4-e486-48f6-9277-eb645c016d39}}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={6cdf3a71-153f-46da-8761-9bd81742143e}, value=[Ljava.lang.CharSequence;@34479159}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={6cdf3a71-153f-46da-8761-9bd81742143e}, value=[Ljava.lang.CharSequence;@34479159}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=submit}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, get {url=http://selenium4testing.com/hms/}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: maximizeWindow [9dd49be9-1d40-4761-a925-08bb05218bbd, maximizeWindow {windowHandle=current}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=submit}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={791b4a52-cbe8-4144-ab1d-326ba5bf8ed9}}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={50dab1e4-e486-48f6-9277-eb645c016d39}}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=PAT_IDENTITY_PROOF}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=PAT_IDENTITY_PROOF}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={b5bca7f2-1eb9-4a7f-b569-03a641238e27}, value=[Ljava.lang.CharSequence;@2fb9af2b}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, maximizeWindow {windowHandle=current}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=username}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={b5bca7f2-1eb9-4a7f-b569-03a641238e27}, value=[Ljava.lang.CharSequence;@2fb9af2b}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=NATIONALITY}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=username}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={b9aee829-dde9-4d28-80bf-6867537c12c3}, value=[Ljava.lang.CharSequence;@4668dc15}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=NATIONALITY}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={5dca510a-56cb-4405-8064-c73d83ad73fa}}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={5dca510a-56cb-4405-8064-c73d83ad73fa}}]
+May 06, 2015 11:34:39 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={5dca510a-56cb-4405-8064-c73d83ad73fa}, name=multiple}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={b9aee829-dde9-4d28-80bf-6867537c12c3}, value=[Ljava.lang.CharSequence;@4668dc15}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=password}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={5dca510a-56cb-4405-8064-c73d83ad73fa}, name=multiple}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={5dca510a-56cb-4405-8064-c73d83ad73fa}, using=xpath, value=.//option[normalize-space(.) = "Indian"]}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={791b4a52-cbe8-4144-ab1d-326ba5bf8ed9}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getPageSource [f255278b-41d3-4d3e-818f-2c41584e716c, getPageSource {}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={5dca510a-56cb-4405-8064-c73d83ad73fa}, using=xpath, value=.//option[normalize-space(.) = "Indian"]}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={479f6c54-68ea-42de-b83e-1b009b3642fd}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, getPageSource {}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=xpath, value=/html/body/div[2]/div/h3/a}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={479f6c54-68ea-42de-b83e-1b009b3642fd}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={479f6c54-68ea-42de-b83e-1b009b3642fd}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=xpath, value=/html/body/div[2]/div/h3/a}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={f780c3e3-2844-4af5-a52a-0ea1b540b786}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={479f6c54-68ea-42de-b83e-1b009b3642fd}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=IS_MLC}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=IS_MLC}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={a69f63ed-5b41-4463-ba24-6947d1fc964a}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={a69f63ed-5b41-4463-ba24-6947d1fc964a}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={a69f63ed-5b41-4463-ba24-6947d1fc964a}, name=multiple}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={f780c3e3-2844-4af5-a52a-0ea1b540b786}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=username}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={a69f63ed-5b41-4463-ba24-6947d1fc964a}, name=multiple}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={a69f63ed-5b41-4463-ba24-6947d1fc964a}, using=xpath, value=.//option[normalize-space(.) = "No"]}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={a69f63ed-5b41-4463-ba24-6947d1fc964a}, using=xpath, value=.//option[normalize-space(.) = "No"]}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={925269de-68b4-4a11-8a79-26c596674a9b}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=username}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={b77f0433-559c-4eb6-bd0f-abaed19e30fd}, value=[Ljava.lang.CharSequence;@372ec82c}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={925269de-68b4-4a11-8a79-26c596674a9b}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={925269de-68b4-4a11-8a79-26c596674a9b}}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={b77f0433-559c-4eb6-bd0f-abaed19e30fd}, value=[Ljava.lang.CharSequence;@372ec82c}]
+May 06, 2015 11:34:40 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=password}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=password}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={21fac2e1-33d1-4825-85eb-33084b90abfc}, value=[Ljava.lang.CharSequence;@42e9fe7}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={925269de-68b4-4a11-8a79-26c596674a9b}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=EDUCATION}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={21fac2e1-33d1-4825-85eb-33084b90abfc}, value=[Ljava.lang.CharSequence;@42e9fe7}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=submit}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=EDUCATION}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={bac2be36-bab0-41c1-a371-c68f29029e3a}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=submit}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={a2a93b47-4df9-4d1d-9025-a55f523906fc}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={bac2be36-bab0-41c1-a371-c68f29029e3a}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={bac2be36-bab0-41c1-a371-c68f29029e3a}, name=multiple}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={bac2be36-bab0-41c1-a371-c68f29029e3a}, name=multiple}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={bac2be36-bab0-41c1-a371-c68f29029e3a}, using=xpath, value=.//option[normalize-space(.) = "B.Tech"]}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={bac2be36-bab0-41c1-a371-c68f29029e3a}, using=xpath, value=.//option[normalize-space(.) = "B.Tech"]}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={8219843f-c5e4-4be8-a101-6c0a1abcf04d}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=password}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={c0654564-080e-4982-ae35-9f753ea4e66e}, value=[Ljava.lang.CharSequence;@6b04f06f}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={8219843f-c5e4-4be8-a101-6c0a1abcf04d}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={8219843f-c5e4-4be8-a101-6c0a1abcf04d}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={c0654564-080e-4982-ae35-9f753ea4e66e}, value=[Ljava.lang.CharSequence;@6b04f06f}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=submit}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=submit}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={78b3c00d-daa1-46a9-8846-c5c4d296b4ae}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={a2a93b47-4df9-4d1d-9025-a55f523906fc}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getPageSource [f255278b-41d3-4d3e-818f-2c41584e716c, getPageSource {}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={8219843f-c5e4-4be8-a101-6c0a1abcf04d}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=OCCUPATION}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, getPageSource {}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=xpath, value=/html/body/div[2]/div/h3/a}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=OCCUPATION}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={3089e29b-a487-48a8-9220-4170a03f6caa}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=xpath, value=/html/body/div[2]/div/h3/a}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={958e426a-5ee6-4e20-86f8-995c49738b3d}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={3089e29b-a487-48a8-9220-4170a03f6caa}}]
+May 06, 2015 11:34:41 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={3089e29b-a487-48a8-9220-4170a03f6caa}, name=multiple}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={3089e29b-a487-48a8-9220-4170a03f6caa}, name=multiple}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={3089e29b-a487-48a8-9220-4170a03f6caa}, using=xpath, value=.//option[normalize-space(.) = "Employee"]}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={3089e29b-a487-48a8-9220-4170a03f6caa}, using=xpath, value=.//option[normalize-space(.) = "Employee"]}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={31d424d1-3936-4a0b-b308-5b1acf4eac04}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={31d424d1-3936-4a0b-b308-5b1acf4eac04}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={31d424d1-3936-4a0b-b308-5b1acf4eac04}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={958e426a-5ee6-4e20-86f8-995c49738b3d}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=username}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={31d424d1-3936-4a0b-b308-5b1acf4eac04}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=BLOOD_GRP_CODE}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=username}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={14e86954-de83-402c-95e3-f4ee4493eadc}, value=[Ljava.lang.CharSequence;@e798e5e}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=BLOOD_GRP_CODE}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={6614b15f-64a8-49fc-b475-55f109d727f3}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={14e86954-de83-402c-95e3-f4ee4493eadc}, value=[Ljava.lang.CharSequence;@e798e5e}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=password}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={6614b15f-64a8-49fc-b475-55f109d727f3}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={6614b15f-64a8-49fc-b475-55f109d727f3}, name=multiple}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=password}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={07ef7289-9ccd-479b-afa5-38d2b0c5d60a}, value=[Ljava.lang.CharSequence;@25091279}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={6614b15f-64a8-49fc-b475-55f109d727f3}, name=multiple}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={6614b15f-64a8-49fc-b475-55f109d727f3}, using=xpath, value=.//option[normalize-space(.) = "AB+"]}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={6614b15f-64a8-49fc-b475-55f109d727f3}, using=xpath, value=.//option[normalize-space(.) = "AB+"]}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={fd81de7b-0e1e-4f15-8b71-ea6e118deacf}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, sendKeysToElement {id={07ef7289-9ccd-479b-afa5-38d2b0c5d60a}, value=[Ljava.lang.CharSequence;@25091279}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=submit}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={fd81de7b-0e1e-4f15-8b71-ea6e118deacf}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={fd81de7b-0e1e-4f15-8b71-ea6e118deacf}}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, findElement {using=name, value=submit}]
+May 06, 2015 11:34:42 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={93990e26-b20a-43de-a707-6e059849b6a1}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={fd81de7b-0e1e-4f15-8b71-ea6e118deacf}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=CITIZENSHIP}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=CITIZENSHIP}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={7fbe6984-162c-4b9c-ad4a-1a4b7fd5dfb2}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={7fbe6984-162c-4b9c-ad4a-1a4b7fd5dfb2}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={7fbe6984-162c-4b9c-ad4a-1a4b7fd5dfb2}, name=multiple}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={7fbe6984-162c-4b9c-ad4a-1a4b7fd5dfb2}, name=multiple}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={7fbe6984-162c-4b9c-ad4a-1a4b7fd5dfb2}, using=xpath, value=.//option[normalize-space(.) = "American"]}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={7fbe6984-162c-4b9c-ad4a-1a4b7fd5dfb2}, using=xpath, value=.//option[normalize-space(.) = "American"]}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={e35a4a95-21a9-4330-abc2-68860ea653b9}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, clickElement {id={93990e26-b20a-43de-a707-6e059849b6a1}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: quit [f255278b-41d3-4d3e-818f-2c41584e716c, quit {}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={e35a4a95-21a9-4330-abc2-68860ea653b9}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={e35a4a95-21a9-4330-abc2-68860ea653b9}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [f255278b-41d3-4d3e-818f-2c41584e716c, quit {}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={e35a4a95-21a9-4330-abc2-68860ea653b9}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=SC_PROOF}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=SC_PROOF}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={6027f372-9554-4e8b-9c30-2dff25d7cc65}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementTagName {id={6027f372-9554-4e8b-9c30-2dff25d7cc65}}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={6027f372-9554-4e8b-9c30-2dff25d7cc65}, name=multiple}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getElementAttribute {id={6027f372-9554-4e8b-9c30-2dff25d7cc65}, name=multiple}]
+May 06, 2015 11:34:43 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={6027f372-9554-4e8b-9c30-2dff25d7cc65}, using=xpath, value=.//option[normalize-space(.) = "No"]}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findChildElements {id={6027f372-9554-4e8b-9c30-2dff25d7cc65}, using=xpath, value=.//option[normalize-space(.) = "No"]}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={be558066-04c3-449c-9546-5e69663406a4}}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, isElementSelected {id={be558066-04c3-449c-9546-5e69663406a4}}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={be558066-04c3-449c-9546-5e69663406a4}}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={be558066-04c3-449c-9546-5e69663406a4}}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=ADDRESS2}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=ADDRESS2}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={6b212c4f-0e30-4cda-8a5d-c13deac1cc08}, value=[Ljava.lang.CharSequence;@371178b8}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={6b212c4f-0e30-4cda-8a5d-c13deac1cc08}, value=[Ljava.lang.CharSequence;@371178b8}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=ZIP}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=ZIP}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={2cf1b0ec-e21f-4dba-b379-7f91d13da699}, value=[Ljava.lang.CharSequence;@4cfc32b5}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={78b3c00d-daa1-46a9-8846-c5c4d296b4ae}}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: executeScript [null, executeScript {script=return navigator.userAgent;, args=[]}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=xpath, value=/html/body/div[2]/div/div/ul/li/div}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={2cf1b0ec-e21f-4dba-b379-7f91d13da699}, value=[Ljava.lang.CharSequence;@4cfc32b5}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=image}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=xpath, value=/html/body/div[2]/div/div/ul/li/div}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={c377c5fd-ca88-4e3d-a76c-7d9aca0d61d2}}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=image}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={d66c7388-b3f5-4825-ba03-2231038f742e}, value=[Ljava.lang.CharSequence;@9472562}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, sendKeysToElement {id={d66c7388-b3f5-4825-ba03-2231038f742e}, value=[Ljava.lang.CharSequence;@9472562}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=submit}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={c377c5fd-ca88-4e3d-a76c-7d9aca0d61d2}}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=xpath, value=/html/body/div[2]/div/div[1]/ul/li[1]/ul/li[2]/a}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, findElement {using=name, value=submit}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={61b0d370-c718-444a-bc9d-36466a5a5892}}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=xpath, value=/html/body/div[2]/div/div[1]/ul/li[1]/ul/li[2]/a}]
+May 06, 2015 11:34:44 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={8a67fe68-6fcd-468e-89eb-e5fec2547eed}}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={8a67fe68-6fcd-468e-89eb-e5fec2547eed}}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PATIENT_CAT}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, clickElement {id={61b0d370-c718-444a-bc9d-36466a5a5892}}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getAlertText [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getAlertText {}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PATIENT_CAT}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={dfc4e712-66ec-433f-927d-4228d7192bb5}}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, getAlertText {}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: acceptAlert [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, acceptAlert {}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={dfc4e712-66ec-433f-927d-4228d7192bb5}}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={dfc4e712-66ec-433f-927d-4228d7192bb5}, name=multiple}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={dfc4e712-66ec-433f-927d-4228d7192bb5}, name=multiple}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={dfc4e712-66ec-433f-927d-4228d7192bb5}, using=xpath, value=.//option[normalize-space(.) = "Insurance"]}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, acceptAlert {}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: quit [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, quit {}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={dfc4e712-66ec-433f-927d-4228d7192bb5}, using=xpath, value=.//option[normalize-space(.) = "Insurance"]}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={49bc7550-7182-416b-a475-85f41b56f415}}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={49bc7550-7182-416b-a475-85f41b56f415}}]
+May 06, 2015 11:34:45 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={49bc7550-7182-416b-a475-85f41b56f415}}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [afa2c87f-5cb4-4f03-9a8d-11c5136d3440, quit {}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={49bc7550-7182-416b-a475-85f41b56f415}}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=TITLE}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=TITLE}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={7573b74d-3487-48b9-b669-5cf6da787483}}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={7573b74d-3487-48b9-b669-5cf6da787483}}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={7573b74d-3487-48b9-b669-5cf6da787483}, name=multiple}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={7573b74d-3487-48b9-b669-5cf6da787483}, name=multiple}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={7573b74d-3487-48b9-b669-5cf6da787483}, using=xpath, value=.//option[normalize-space(.) = "Mr."]}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={7573b74d-3487-48b9-b669-5cf6da787483}, using=xpath, value=.//option[normalize-space(.) = "Mr."]}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={6d60a22c-24b1-456e-9d37-d4212b92f54e}}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={6d60a22c-24b1-456e-9d37-d4212b92f54e}}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={6d60a22c-24b1-456e-9d37-d4212b92f54e}}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={6d60a22c-24b1-456e-9d37-d4212b92f54e}}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PNT_NAME}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PNT_NAME}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={af5b69df-507d-4c46-a18a-563e24d3f3e7}, value=[Ljava.lang.CharSequence;@2601a8e8}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={af5b69df-507d-4c46-a18a-563e24d3f3e7}, value=[Ljava.lang.CharSequence;@2601a8e8}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=MIDDLE_NAME}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=MIDDLE_NAME}]
+May 06, 2015 11:34:46 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={78938dd9-76a7-4287-9cc3-d22403ce9f6a}, value=[Ljava.lang.CharSequence;@5ba1107a}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={78938dd9-76a7-4287-9cc3-d22403ce9f6a}, value=[Ljava.lang.CharSequence;@5ba1107a}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=LAST_NAME}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=LAST_NAME}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={0d370988-3190-4104-814e-e27eaa7b4cbf}, value=[Ljava.lang.CharSequence;@40357308}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={0d370988-3190-4104-814e-e27eaa7b4cbf}, value=[Ljava.lang.CharSequence;@40357308}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=DOB}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=DOB}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={518dd8f7-098a-4d7f-9abc-f15bdb1a789a}, value=[Ljava.lang.CharSequence;@1abd8555}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={518dd8f7-098a-4d7f-9abc-f15bdb1a789a}, value=[Ljava.lang.CharSequence;@1abd8555}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=AGE}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=AGE}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={7d56aea9-ff61-41cf-bb22-239c1b2a2e5e}, value=[Ljava.lang.CharSequence;@690f59c6}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={7d56aea9-ff61-41cf-bb22-239c1b2a2e5e}, value=[Ljava.lang.CharSequence;@690f59c6}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=SEX}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=SEX}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={2b933329-d12d-4f96-85c6-c20db10b2b64}}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={2b933329-d12d-4f96-85c6-c20db10b2b64}}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={2b933329-d12d-4f96-85c6-c20db10b2b64}, name=multiple}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={2b933329-d12d-4f96-85c6-c20db10b2b64}, name=multiple}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={2b933329-d12d-4f96-85c6-c20db10b2b64}, using=xpath, value=.//option[normalize-space(.) = "Male"]}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={2b933329-d12d-4f96-85c6-c20db10b2b64}, using=xpath, value=.//option[normalize-space(.) = "Male"]}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={22a2f5b3-641e-452a-b389-69c32e005f5d}}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={22a2f5b3-641e-452a-b389-69c32e005f5d}}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={22a2f5b3-641e-452a-b389-69c32e005f5d}}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={22a2f5b3-641e-452a-b389-69c32e005f5d}}]
+May 06, 2015 11:34:47 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=MTRL_STATUS}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=MTRL_STATUS}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={fe523d2f-8145-45bd-a1b3-3582fc771eed}}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={fe523d2f-8145-45bd-a1b3-3582fc771eed}}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={fe523d2f-8145-45bd-a1b3-3582fc771eed}, name=multiple}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={fe523d2f-8145-45bd-a1b3-3582fc771eed}, name=multiple}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={fe523d2f-8145-45bd-a1b3-3582fc771eed}, using=xpath, value=.//option[normalize-space(.) = "Married"]}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={fe523d2f-8145-45bd-a1b3-3582fc771eed}, using=xpath, value=.//option[normalize-space(.) = "Married"]}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={5b615364-bb6f-45bf-9d23-8e1c99a09afd}}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={5b615364-bb6f-45bf-9d23-8e1c99a09afd}}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={5b615364-bb6f-45bf-9d23-8e1c99a09afd}}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={5b615364-bb6f-45bf-9d23-8e1c99a09afd}}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=RELIGION}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=RELIGION}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={a6e15dd9-ac1e-4bd4-8c9b-6b1c77066328}}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={a6e15dd9-ac1e-4bd4-8c9b-6b1c77066328}}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={a6e15dd9-ac1e-4bd4-8c9b-6b1c77066328}, name=multiple}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={a6e15dd9-ac1e-4bd4-8c9b-6b1c77066328}, name=multiple}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={a6e15dd9-ac1e-4bd4-8c9b-6b1c77066328}, using=tag name, value=option}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={a6e15dd9-ac1e-4bd4-8c9b-6b1c77066328}, using=tag name, value=option}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={a645b75e-79fe-43b1-8251-adbb521f85a2}, name=index}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={a645b75e-79fe-43b1-8251-adbb521f85a2}, name=index}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={6a416ac8-2d06-4850-9b5b-dccf0b33f63a}, name=index}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={6a416ac8-2d06-4850-9b5b-dccf0b33f63a}, name=index}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={7bf0eea6-803a-4d11-b1ee-2ad156a01766}, name=index}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={7bf0eea6-803a-4d11-b1ee-2ad156a01766}, name=index}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={e9838abc-4185-4791-a132-9eb5060adb4d}, name=index}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={e9838abc-4185-4791-a132-9eb5060adb4d}, name=index}]
+May 06, 2015 11:34:48 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={e9838abc-4185-4791-a132-9eb5060adb4d}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={e9838abc-4185-4791-a132-9eb5060adb4d}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={e9838abc-4185-4791-a132-9eb5060adb4d}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={e9838abc-4185-4791-a132-9eb5060adb4d}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PLANGUAGE}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PLANGUAGE}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={eb8e4a54-da8d-4999-8295-84b9387311aa}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={eb8e4a54-da8d-4999-8295-84b9387311aa}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={eb8e4a54-da8d-4999-8295-84b9387311aa}, name=multiple}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={eb8e4a54-da8d-4999-8295-84b9387311aa}, name=multiple}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={eb8e4a54-da8d-4999-8295-84b9387311aa}, using=xpath, value=.//option[normalize-space(.) = "English"]}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={eb8e4a54-da8d-4999-8295-84b9387311aa}, using=xpath, value=.//option[normalize-space(.) = "English"]}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={8c6789aa-8a01-4def-a4cf-4cc70c1d2fba}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={8c6789aa-8a01-4def-a4cf-4cc70c1d2fba}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={8c6789aa-8a01-4def-a4cf-4cc70c1d2fba}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={8c6789aa-8a01-4def-a4cf-4cc70c1d2fba}}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=ADDRESS1}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=ADDRESS1}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={2056ca95-6765-4485-89f2-f2b49e72d144}, value=[Ljava.lang.CharSequence;@69adb746}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={2056ca95-6765-4485-89f2-f2b49e72d144}, value=[Ljava.lang.CharSequence;@69adb746}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=MOBILE_NO}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=MOBILE_NO}]
+May 06, 2015 11:34:49 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={5a5c0ed5-705c-44b5-95e3-2126e7d3d73c}, value=[Ljava.lang.CharSequence;@5740448d}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={5a5c0ed5-705c-44b5-95e3-2126e7d3d73c}, value=[Ljava.lang.CharSequence;@5740448d}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=EMAIL_ID}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=EMAIL_ID}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={c36ad873-8392-4615-aacd-fdb4dd1d8dff}, value=[Ljava.lang.CharSequence;@6ca7471d}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={c36ad873-8392-4615-aacd-fdb4dd1d8dff}, value=[Ljava.lang.CharSequence;@6ca7471d}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=COUNTRY_CODE}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=COUNTRY_CODE}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={ddb6d68a-b7e0-414c-bb97-e18549f81412}}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={ddb6d68a-b7e0-414c-bb97-e18549f81412}}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={ddb6d68a-b7e0-414c-bb97-e18549f81412}, name=multiple}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={ddb6d68a-b7e0-414c-bb97-e18549f81412}, name=multiple}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={ddb6d68a-b7e0-414c-bb97-e18549f81412}, using=xpath, value=.//option[normalize-space(.) = "America"]}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={ddb6d68a-b7e0-414c-bb97-e18549f81412}, using=xpath, value=.//option[normalize-space(.) = "America"]}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={7377a136-c33b-442a-9597-be192d0b566c}}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={7377a136-c33b-442a-9597-be192d0b566c}}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={7377a136-c33b-442a-9597-be192d0b566c}}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={7377a136-c33b-442a-9597-be192d0b566c}}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=RELATION}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=RELATION}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={23725ba0-ff82-4400-8141-60e6463dcbe4}}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={23725ba0-ff82-4400-8141-60e6463dcbe4}}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={23725ba0-ff82-4400-8141-60e6463dcbe4}, name=multiple}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={23725ba0-ff82-4400-8141-60e6463dcbe4}, name=multiple}]
+May 06, 2015 11:34:50 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={23725ba0-ff82-4400-8141-60e6463dcbe4}, using=xpath, value=.//option[normalize-space(.) = "Brother"]}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={23725ba0-ff82-4400-8141-60e6463dcbe4}, using=xpath, value=.//option[normalize-space(.) = "Brother"]}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={05b6c274-fd56-4242-ae00-48d56a989fae}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={05b6c274-fd56-4242-ae00-48d56a989fae}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={05b6c274-fd56-4242-ae00-48d56a989fae}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={05b6c274-fd56-4242-ae00-48d56a989fae}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PAT_IDENTITY}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PAT_IDENTITY}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={61d94f19-58ba-4e61-b290-b60e61d99c99}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={61d94f19-58ba-4e61-b290-b60e61d99c99}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={61d94f19-58ba-4e61-b290-b60e61d99c99}, name=multiple}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={61d94f19-58ba-4e61-b290-b60e61d99c99}, name=multiple}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={61d94f19-58ba-4e61-b290-b60e61d99c99}, using=xpath, value=.//option[normalize-space(.) = "Voter ID"]}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={61d94f19-58ba-4e61-b290-b60e61d99c99}, using=xpath, value=.//option[normalize-space(.) = "Voter ID"]}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={fcaa8647-7a10-4791-a0c7-f08ed57b70c0}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={fcaa8647-7a10-4791-a0c7-f08ed57b70c0}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={fcaa8647-7a10-4791-a0c7-f08ed57b70c0}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={fcaa8647-7a10-4791-a0c7-f08ed57b70c0}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PAT_IDENTITY_PROOF}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=PAT_IDENTITY_PROOF}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={8e750b3c-f691-4b1f-99e5-b168acd83bed}, value=[Ljava.lang.CharSequence;@385a7a1d}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={8e750b3c-f691-4b1f-99e5-b168acd83bed}, value=[Ljava.lang.CharSequence;@385a7a1d}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=NATIONALITY}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=NATIONALITY}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={81315332-8b41-4df4-9a61-510006f6e756}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={81315332-8b41-4df4-9a61-510006f6e756}}]
+May 06, 2015 11:34:51 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={81315332-8b41-4df4-9a61-510006f6e756}, name=multiple}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={81315332-8b41-4df4-9a61-510006f6e756}, name=multiple}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={81315332-8b41-4df4-9a61-510006f6e756}, using=xpath, value=.//option[normalize-space(.) = "Indian"]}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={81315332-8b41-4df4-9a61-510006f6e756}, using=xpath, value=.//option[normalize-space(.) = "Indian"]}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={390752ba-b584-47c2-bd8c-6ea2d6f1bc4b}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={390752ba-b584-47c2-bd8c-6ea2d6f1bc4b}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={390752ba-b584-47c2-bd8c-6ea2d6f1bc4b}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={390752ba-b584-47c2-bd8c-6ea2d6f1bc4b}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=IS_MLC}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=IS_MLC}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={5c0bf067-12eb-4888-80c6-0c6349f4ddc6}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={5c0bf067-12eb-4888-80c6-0c6349f4ddc6}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={5c0bf067-12eb-4888-80c6-0c6349f4ddc6}, name=multiple}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={5c0bf067-12eb-4888-80c6-0c6349f4ddc6}, name=multiple}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={5c0bf067-12eb-4888-80c6-0c6349f4ddc6}, using=xpath, value=.//option[normalize-space(.) = "No"]}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={5c0bf067-12eb-4888-80c6-0c6349f4ddc6}, using=xpath, value=.//option[normalize-space(.) = "No"]}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={61c96fc4-04aa-44d7-9102-be2b66483deb}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={61c96fc4-04aa-44d7-9102-be2b66483deb}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={61c96fc4-04aa-44d7-9102-be2b66483deb}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={61c96fc4-04aa-44d7-9102-be2b66483deb}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=EDUCATION}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=EDUCATION}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={21074821-1537-4d5b-86d9-6b0fe0d66067}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={21074821-1537-4d5b-86d9-6b0fe0d66067}}]
+May 06, 2015 11:34:52 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={21074821-1537-4d5b-86d9-6b0fe0d66067}, name=multiple}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={21074821-1537-4d5b-86d9-6b0fe0d66067}, name=multiple}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={21074821-1537-4d5b-86d9-6b0fe0d66067}, using=xpath, value=.//option[normalize-space(.) = "B.Tech"]}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={21074821-1537-4d5b-86d9-6b0fe0d66067}, using=xpath, value=.//option[normalize-space(.) = "B.Tech"]}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={71825fa1-5bd7-45cd-9f73-fe0da2a95ffd}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={71825fa1-5bd7-45cd-9f73-fe0da2a95ffd}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={71825fa1-5bd7-45cd-9f73-fe0da2a95ffd}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={71825fa1-5bd7-45cd-9f73-fe0da2a95ffd}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=OCCUPATION}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=OCCUPATION}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={f1d73384-9a79-43b0-9c4d-2dad6f767bc0}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={f1d73384-9a79-43b0-9c4d-2dad6f767bc0}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={f1d73384-9a79-43b0-9c4d-2dad6f767bc0}, name=multiple}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={f1d73384-9a79-43b0-9c4d-2dad6f767bc0}, name=multiple}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={f1d73384-9a79-43b0-9c4d-2dad6f767bc0}, using=xpath, value=.//option[normalize-space(.) = "Employee"]}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={f1d73384-9a79-43b0-9c4d-2dad6f767bc0}, using=xpath, value=.//option[normalize-space(.) = "Employee"]}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={a377abb4-3bbe-42d6-b514-330778dfe109}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={a377abb4-3bbe-42d6-b514-330778dfe109}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={a377abb4-3bbe-42d6-b514-330778dfe109}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={a377abb4-3bbe-42d6-b514-330778dfe109}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=BLOOD_GRP_CODE}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=BLOOD_GRP_CODE}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={e37f5356-af85-4ab8-9b5a-16a5c7115795}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={e37f5356-af85-4ab8-9b5a-16a5c7115795}}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={e37f5356-af85-4ab8-9b5a-16a5c7115795}, name=multiple}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={e37f5356-af85-4ab8-9b5a-16a5c7115795}, name=multiple}]
+May 06, 2015 11:34:53 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={e37f5356-af85-4ab8-9b5a-16a5c7115795}, using=xpath, value=.//option[normalize-space(.) = "AB+"]}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={e37f5356-af85-4ab8-9b5a-16a5c7115795}, using=xpath, value=.//option[normalize-space(.) = "AB+"]}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={64d7e6ee-5c0b-41c5-8405-b54883085533}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={64d7e6ee-5c0b-41c5-8405-b54883085533}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={64d7e6ee-5c0b-41c5-8405-b54883085533}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={64d7e6ee-5c0b-41c5-8405-b54883085533}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=CITIZENSHIP}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=CITIZENSHIP}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={8b5a584b-3d80-4bc0-b0c7-d55b519f6f3a}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={8b5a584b-3d80-4bc0-b0c7-d55b519f6f3a}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={8b5a584b-3d80-4bc0-b0c7-d55b519f6f3a}, name=multiple}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={8b5a584b-3d80-4bc0-b0c7-d55b519f6f3a}, name=multiple}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={8b5a584b-3d80-4bc0-b0c7-d55b519f6f3a}, using=xpath, value=.//option[normalize-space(.) = "American"]}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={8b5a584b-3d80-4bc0-b0c7-d55b519f6f3a}, using=xpath, value=.//option[normalize-space(.) = "American"]}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={c52e4382-c6a5-4752-a423-1a099f90c7ca}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={c52e4382-c6a5-4752-a423-1a099f90c7ca}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={c52e4382-c6a5-4752-a423-1a099f90c7ca}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={c52e4382-c6a5-4752-a423-1a099f90c7ca}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=SC_PROOF}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=SC_PROOF}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementTagName [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={d5406cef-ca8b-49d8-828b-cca8ab8cf784}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementTagName {id={d5406cef-ca8b-49d8-828b-cca8ab8cf784}}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getElementAttribute [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={d5406cef-ca8b-49d8-828b-cca8ab8cf784}, name=multiple}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getElementAttribute {id={d5406cef-ca8b-49d8-828b-cca8ab8cf784}, name=multiple}]
+May 06, 2015 11:34:54 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findChildElements [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={d5406cef-ca8b-49d8-828b-cca8ab8cf784}, using=xpath, value=.//option[normalize-space(.) = "No"]}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findChildElements {id={d5406cef-ca8b-49d8-828b-cca8ab8cf784}, using=xpath, value=.//option[normalize-space(.) = "No"]}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: isElementSelected [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={ce7f9c52-b780-4328-926f-35fa1fe61d2a}}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, isElementSelected {id={ce7f9c52-b780-4328-926f-35fa1fe61d2a}}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={ce7f9c52-b780-4328-926f-35fa1fe61d2a}}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={ce7f9c52-b780-4328-926f-35fa1fe61d2a}}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=ADDRESS2}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=ADDRESS2}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={58f3f590-5dad-4477-afe4-584257507a22}, value=[Ljava.lang.CharSequence;@39833b2c}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={58f3f590-5dad-4477-afe4-584257507a22}, value=[Ljava.lang.CharSequence;@39833b2c}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=ZIP}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=ZIP}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={0dd840df-573b-4d20-abb2-557b50c8df7b}, value=[Ljava.lang.CharSequence;@46635f8e}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={0dd840df-573b-4d20-abb2-557b50c8df7b}, value=[Ljava.lang.CharSequence;@46635f8e}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=image}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=image}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: sendKeysToElement [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={8ff45818-5032-43c1-a51d-52a459b78779}, value=[Ljava.lang.CharSequence;@778e0570}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, sendKeysToElement {id={8ff45818-5032-43c1-a51d-52a459b78779}, value=[Ljava.lang.CharSequence;@778e0570}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: findElement [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=submit}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, findElement {using=name, value=submit}]
+May 06, 2015 11:34:55 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: clickElement [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={88fa9a10-4254-4432-b461-61e058cfe317}}]
+May 06, 2015 11:34:56 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, clickElement {id={88fa9a10-4254-4432-b461-61e058cfe317}}]
+May 06, 2015 11:34:56 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: getAlertText [9dd49be9-1d40-4761-a925-08bb05218bbd, getAlertText {}]
+May 06, 2015 11:34:56 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, getAlertText {}]
+May 06, 2015 11:34:56 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: acceptAlert [9dd49be9-1d40-4761-a925-08bb05218bbd, acceptAlert {}]
+May 06, 2015 11:34:56 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, acceptAlert {}]
+May 06, 2015 11:34:56 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executing: quit [9dd49be9-1d40-4761-a925-08bb05218bbd, quit {}]
+May 06, 2015 11:34:56 PM org.openqa.selenium.remote.RemoteWebDriver log
+FINE: Executed: [9dd49be9-1d40-4761-a925-08bb05218bbd, quit {}]
